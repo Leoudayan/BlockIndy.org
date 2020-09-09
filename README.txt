@@ -1,13 +1,13 @@
 
 TITLE: 
-App - Free HTML5 App Template Built with Bootstrap 4
+BlockIndy - One App Solution For All Your Crypto Needs
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by CryptoTamil Mano. 
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://youtube.com/CryptoTamil
+Twitter: http://twitter.com/CryptoTamil
+Facebook: http://facebook.com/CryptoTamil
 
 
 CREDITS:
@@ -29,3 +29,6 @@ http://daneden.me/animate
 
 Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
+
+Initial Design
+FreeHTML5.co - fh5co
